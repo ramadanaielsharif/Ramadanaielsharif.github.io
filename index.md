@@ -7,3 +7,7 @@ Courses that I am teaching Fall 2026:
 - MAT 120 Calculus I.
 - MAT 221 Calculus II.
 
+
+
+
+![Wilberforce University](https://wilberforce.edu/wp-content/uploads/2019/06/wilberforce-scaled@2x.png )
