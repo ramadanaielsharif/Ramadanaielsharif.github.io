@@ -1,8 +1,5 @@
 # My Background
-![Wilberforce Wiversity](/img/WU-logo.png)
-
 I am a math instructor at [Wilberforce University](https://wilberforce.edu/) 
-
 Courses that I am teaching Fall 2026: 
 - MAT 111 Fundamentals of Algebra. 
 - MAT 113 College Algebra.
