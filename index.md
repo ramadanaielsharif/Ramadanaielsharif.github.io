@@ -16,3 +16,5 @@ Wilberforce University | School of Engineering and Sciences |
 1055 N. Bickett Road P.O. Box 1001 | Wilberforce, Ohio 45384 
 O: (937) 708-5251|Office: Stokes 104| rsharif@wilberforce.edu |
 www.wilberforce.edu 
+### My favourite map
+<embed type="text/html" src="/img/wu_map.html" height="650" width="850">
