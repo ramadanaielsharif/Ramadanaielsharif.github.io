@@ -17,4 +17,4 @@ Wilberforce University | School of Engineering and Sciences |
 O: (937) 708-5251|Office: Stokes 104| rsharif@wilberforce.edu |
 www.wilberforce.edu 
 ### Wilberforce University map
-<embed type="text/html" src="/img/wu_map.html" height="650" width="850">
+<embed type="text/html" src="/img/wu_map (1).html" height="650" width="850">
