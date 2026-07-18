@@ -7,7 +7,10 @@ Courses that I am teaching Fall 2026:
 - MAT 231 Differential Equations. 
 
 West Virginia State University workshop with MS-CC April 2026
-![West Virginia State University workshop with MS-CC April 2026](/img/WVSU-Pic1.jpg)
+![West Virginia State University workshop with MS-CC April 2026](/img src="/img/pika.jpg" 
+  alt="Super-cute pika!" 
+  height="100px" 
+  width="400px"/WVSU-Pic1.jpg)
 
 ![Wilberforce University](/img/WU-logo.png)
 
